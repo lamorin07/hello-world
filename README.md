@@ -1,3 +1,3 @@
 # hello-world
 First Repository on GitHub
-I like the beach
+I like the beach and parties
